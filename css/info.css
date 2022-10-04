@@ -1,0 +1,22 @@
+#info{
+  background: #0f0f0f;
+  color: #fff;
+  text-align: center;
+
+}
+#info .contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+.info-Travellers{
+  margin: 20px;
+
+}
+.info-Travellers img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  border: 7px solid #fff;
+}
